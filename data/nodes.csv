@@ -1,0 +1,20 @@
+id,country,side,switched,lon,lat
+GER,Germany,Axis,No,10.4,51.1
+ITA,Italy,Axis,Yes,12.6,42.8
+HUN,Hungary,Axis,Yes,19.4,47.2
+ROU,Romania,Axis,Yes,25.0,45.9
+BUL,Bulgaria,Axis,Yes,25.2,42.7
+FIN,Finland,Axis,Yes,26.0,64.0
+GBR,United Kingdom,Allies,No,-2.0,53.5
+FRA,France,Allies,No,2.5,46.6
+SUN,Soviet Union,Allies,No,37.0,56.0
+USA,United States,Allies,No,-12.0,46.0
+POL,Poland,Allies,No,19.4,52.1
+YUG,Yugoslavia,Allies,No,19.0,44.0
+GRC,Greece,Allies,No,22.5,39.3
+NOR,Norway,Allies,No,9.5,61.0
+NLD,Netherlands,Allies,No,5.3,52.6
+BEL,Belgium,Allies,No,4.6,50.4
+SWE,Sweden,Neutral,No,15.0,62.0
+CHE,Switzerland,Neutral,No,8.2,46.8
+ESP,Spain,Neutral,No,-3.7,40.2
